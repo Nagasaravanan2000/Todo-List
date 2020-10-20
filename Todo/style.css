@@ -1,0 +1,25 @@
+.login-container{
+      margin-top: 50px;
+      text-align: center;
+}
+
+.footer-section{
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 25px;
+    margin-top: 50px;
+}
+
+#new_list_item{
+    margin-right: 5px;
+}
+
+.todo{
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+
